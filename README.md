@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing at the moment :)
 - 📫 How to reach me: Discord @pinkstations
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I make mods for Stardew Valley!
+- ⚡ Fun fact: I make mods for Stardew Valley! You can find them on nexus @ PinkStations
 
 <!---
 PinkStations/PinkStations is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
